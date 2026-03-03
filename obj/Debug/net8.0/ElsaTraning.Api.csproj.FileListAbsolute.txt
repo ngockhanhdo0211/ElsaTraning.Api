@@ -211,3 +211,5 @@ C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\ref
 C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\ElsaTraning.Api.pdb
 C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\ElsaTraning.Api.genruntimeconfig.cache
 C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\ref\ElsaTraning.Api.dll
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\ElsaTraning.Api.sourcelink.json
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
