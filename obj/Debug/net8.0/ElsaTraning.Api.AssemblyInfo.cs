@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElsaTraning.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bee73f5985b93608382168dbfd949481931b178e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46bd5e1d84f2b8f0ed475e73eb5988be1a657a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElsaTraning.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElsaTraning.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

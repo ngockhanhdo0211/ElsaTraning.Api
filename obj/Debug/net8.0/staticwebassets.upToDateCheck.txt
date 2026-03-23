@@ -1,0 +1,556 @@
+wwwroot\studio\appsettings.json
+wwwroot\studio\css\app.css
+wwwroot\studio\css\bootstrap\bootstrap.min.css
+wwwroot\studio\css\bootstrap\bootstrap.min.css.map
+wwwroot\studio\ElsaStudio.styles.css
+wwwroot\studio\favicon.png
+wwwroot\studio\icon-192.png
+wwwroot\studio\index.html
+wwwroot\studio\sample-data\weather.json
+wwwroot\studio\_content\BlazorMonaco\jsInterop.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.de.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.es.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.fr.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.it.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.ja.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.ko.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.ru.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.zh-cn.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\nls.messages.zh-tw.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\vs\base\worker\workerMain.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\vs\editor\editor.main.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min-maps\vs\loader.js.map
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\base\browser\ui\codicons\codicon\codicon.ttf
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\base\worker\workerMain.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\abap\abap.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\abap\abap.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\apex\apex.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\apex\apex.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\azcli\azcli.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\azcli\azcli.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\bat\bat.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\bat\bat.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\bicep\bicep.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\bicep\bicep.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cameligo\cameligo.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cameligo\cameligo.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\clojure\clojure.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\clojure\clojure.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\coffee\coffee.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\coffee\coffee.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cpp\cpp.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cpp\cpp.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\csharp\csharp.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\csharp\csharp.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\csp\csp.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\csp\csp.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\css\css.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\css\css.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cypher\cypher.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\cypher\cypher.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\dart\dart.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\dart\dart.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\dockerfile\dockerfile.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\dockerfile\dockerfile.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ecl\ecl.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ecl\ecl.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\elixir\elixir.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\elixir\elixir.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\flow9\flow9.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\flow9\flow9.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\freemarker2\freemarker2.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\freemarker2\freemarker2.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\fsharp\fsharp.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\fsharp\fsharp.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\go\go.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\go\go.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\graphql\graphql.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\graphql\graphql.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\handlebars\handlebars.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\handlebars\handlebars.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\hcl\hcl.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\hcl\hcl.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\html\html.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\html\html.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ini\ini.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ini\ini.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\javascript\javascript.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\javascript\javascript.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\java\java.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\java\java.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\julia\julia.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\julia\julia.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\kotlin\kotlin.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\kotlin\kotlin.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\less\less.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\less\less.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\lexon\lexon.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\lexon\lexon.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\liquid\liquid.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\liquid\liquid.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\lua\lua.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\lua\lua.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\m3\m3.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\m3\m3.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\markdown\markdown.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\markdown\markdown.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mdx\mdx.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mdx\mdx.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mips\mips.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mips\mips.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\msdax\msdax.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\msdax\msdax.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mysql\mysql.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\mysql\mysql.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\objective-c\objective-c.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\objective-c\objective-c.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pascaligo\pascaligo.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pascaligo\pascaligo.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pascal\pascal.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pascal\pascal.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\perl\perl.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\perl\perl.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pgsql\pgsql.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pgsql\pgsql.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\php\php.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\php\php.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pla\pla.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pla\pla.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\postiats\postiats.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\postiats\postiats.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\powerquery\powerquery.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\powerquery\powerquery.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\powershell\powershell.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\powershell\powershell.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\protobuf\protobuf.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\protobuf\protobuf.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pug\pug.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\pug\pug.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\python\python.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\python\python.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\qsharp\qsharp.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\qsharp\qsharp.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\razor\razor.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\razor\razor.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\redis\redis.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\redis\redis.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\redshift\redshift.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\redshift\redshift.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\restructuredtext\restructuredtext.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\restructuredtext\restructuredtext.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ruby\ruby.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\ruby\ruby.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\rust\rust.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\rust\rust.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\r\r.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\r\r.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sb\sb.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sb\sb.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scala\scala.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scala\scala.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scheme\scheme.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scheme\scheme.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scss\scss.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\scss\scss.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\shell\shell.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\shell\shell.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\solidity\solidity.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\solidity\solidity.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sophia\sophia.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sophia\sophia.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sparql\sparql.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sparql\sparql.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sql\sql.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\sql\sql.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\st\st.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\st\st.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\swift\swift.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\swift\swift.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\systemverilog\systemverilog.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\systemverilog\systemverilog.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\tcl\tcl.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\tcl\tcl.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\twig\twig.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\twig\twig.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\typescript\typescript.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\typescript\typescript.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\typespec\typespec.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\typespec\typespec.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\vb\vb.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\vb\vb.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\wgsl\wgsl.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\wgsl\wgsl.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\xml\xml.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\xml\xml.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\yaml\yaml.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\basic-languages\yaml\yaml.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\editor\editor.main.css
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\editor\editor.main.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\editor\editor.main.min.css
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\css\cssMode.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\css\cssMode.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\css\cssWorker.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\css\cssWorker.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\html\htmlMode.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\html\htmlMode.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\html\htmlWorker.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\html\htmlWorker.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\json\jsonMode.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\json\jsonMode.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\json\jsonWorker.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\json\jsonWorker.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\typescript\tsMode.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\typescript\tsWorker.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\language\typescript\tsWorker.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\loader.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\loader.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.de.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.de.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.es.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.es.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.fr.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.fr.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.it.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.it.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ja.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ja.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ko.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ko.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ru.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.ru.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.zh-cn.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.zh-cn.min.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.zh-tw.js
+wwwroot\studio\_content\BlazorMonaco\lib\monaco-editor\min\vs\nls.messages.zh-tw.min.js
+wwwroot\studio\_content\CodeBeam.MudBlazor.Extensions\eraser.cur
+wwwroot\studio\_content\CodeBeam.MudBlazor.Extensions\MudExtensions.min.css
+wwwroot\studio\_content\CodeBeam.MudBlazor.Extensions\MudExtensions.min.js
+wwwroot\studio\_content\CodeBeam.MudBlazor.Extensions\Mud_Secondary.png
+wwwroot\studio\_content\CodeBeam.MudBlazor.Extensions\pencil.cur
+wwwroot\studio\_content\Elsa.Studio.DomInterop\clipboard.entry.js
+wwwroot\studio\_content\Elsa.Studio.DomInterop\clipboard.entry.js.map
+wwwroot\studio\_content\Elsa.Studio.DomInterop\dom.entry.js
+wwwroot\studio\_content\Elsa.Studio.DomInterop\dom.entry.js.map
+wwwroot\studio\_content\Elsa.Studio.DomInterop\files.entry.js
+wwwroot\studio\_content\Elsa.Studio.DomInterop\files.entry.js.map
+wwwroot\studio\_content\Elsa.Studio.Login\Elsa.Studio.Login.0d0vwm38cq.bundle.scp.css
+wwwroot\studio\_content\Elsa.Studio.Shell\android-chrome-192x192.png
+wwwroot\studio\_content\Elsa.Studio.Shell\android-chrome-512x512.png
+wwwroot\studio\_content\Elsa.Studio.Shell\apple-touch-icon.png
+wwwroot\studio\_content\Elsa.Studio.Shell\css\shell.css
+wwwroot\studio\_content\Elsa.Studio.Shell\favicon-16x16.png
+wwwroot\studio\_content\Elsa.Studio.Shell\favicon-32x32.png
+wwwroot\studio\_content\Elsa.Studio.Shell\favicon.ico
+wwwroot\studio\_content\Elsa.Studio.Shell\img\icon.png
+wwwroot\studio\_content\Elsa.Studio.Shell\site.webmanifest
+wwwroot\studio\_content\Elsa.Studio.Workflows.Designer\designer.css
+wwwroot\studio\_content\Elsa.Studio.Workflows.Designer\designer.entry.js
+wwwroot\studio\_content\Elsa.Studio.Workflows.Designer\designer.entry.js.map
+wwwroot\studio\_content\Elsa.Studio.Workflows.Designer\designer.v1.css
+wwwroot\studio\_content\Elsa.Studio.Workflows.Designer\designer.v2.css
+wwwroot\studio\_content\Microsoft.AspNetCore.Components.CustomElements\Microsoft.AspNetCore.Components.CustomElements.lib.module.js
+wwwroot\studio\_content\MudBlazor\MudBlazor.min.css
+wwwroot\studio\_content\MudBlazor\MudBlazor.min.js
+wwwroot\studio\_content\Radzen.Blazor\css\dark-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\dark-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\dark.css
+wwwroot\studio\_content\Radzen.Blazor\css\default-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\default-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\default.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic-dark-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic-dark-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic-dark.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\humanistic.css
+wwwroot\studio\_content\Radzen.Blazor\css\material-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\material-dark-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\material-dark-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\material-dark.css
+wwwroot\studio\_content\Radzen.Blazor\css\material-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\material.css
+wwwroot\studio\_content\Radzen.Blazor\css\math.css
+wwwroot\studio\_content\Radzen.Blazor\css\software-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\software-dark-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\software-dark-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\software-dark.css
+wwwroot\studio\_content\Radzen.Blazor\css\software-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\software.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard-dark-base.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard-dark-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard-dark.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard-wcag.css
+wwwroot\studio\_content\Radzen.Blazor\css\standard.css
+wwwroot\studio\_content\Radzen.Blazor\fonts\MaterialSymbolsOutlined.woff2
+wwwroot\studio\_content\Radzen.Blazor\fonts\RobotoFlex.woff2
+wwwroot\studio\_content\Radzen.Blazor\fonts\SourceSans3VF-Italic.ttf.woff2
+wwwroot\studio\_content\Radzen.Blazor\fonts\SourceSans3VF-Upright.ttf.woff2
+wwwroot\studio\_content\Radzen.Blazor\Radzen.Blazor.js
+wwwroot\studio\_content\Radzen.Blazor\Radzen.Blazor.min.js
+wwwroot\studio\_framework\blazor.boot.json
+wwwroot\studio\_framework\blazor.webassembly.js
+wwwroot\studio\_framework\Blazored.FluentValidation.wasm
+wwwroot\studio\_framework\Blazored.LocalStorage.wasm
+wwwroot\studio\_framework\BlazorMonaco.wasm
+wwwroot\studio\_framework\CodeBeam.MudBlazor.Extensions.wasm
+wwwroot\studio\_framework\CsvHelper.wasm
+wwwroot\studio\_framework\DEDrake.ShortGuid.wasm
+wwwroot\studio\_framework\dotnet.js
+wwwroot\studio\_framework\dotnet.native.js
+wwwroot\studio\_framework\dotnet.native.wasm
+wwwroot\studio\_framework\dotnet.runtime.js
+wwwroot\studio\_framework\Elsa.Api.Client.wasm
+wwwroot\studio\_framework\Elsa.Studio.ActivityPortProviders.wasm
+wwwroot\studio\_framework\Elsa.Studio.Core.BlazorWasm.wasm
+wwwroot\studio\_framework\Elsa.Studio.Core.wasm
+wwwroot\studio\_framework\Elsa.Studio.Dashboard.wasm
+wwwroot\studio\_framework\Elsa.Studio.DomInterop.wasm
+wwwroot\studio\_framework\Elsa.Studio.Login.BlazorWasm.wasm
+wwwroot\studio\_framework\Elsa.Studio.Login.wasm
+wwwroot\studio\_framework\Elsa.Studio.Shared.wasm
+wwwroot\studio\_framework\Elsa.Studio.Shell.wasm
+wwwroot\studio\_framework\Elsa.Studio.UIHints.wasm
+wwwroot\studio\_framework\Elsa.Studio.wasm
+wwwroot\studio\_framework\Elsa.Studio.Workflows.Core.wasm
+wwwroot\studio\_framework\Elsa.Studio.Workflows.Designer.wasm
+wwwroot\studio\_framework\Elsa.Studio.Workflows.wasm
+wwwroot\studio\_framework\ElsaStudio.wasm
+wwwroot\studio\_framework\FluentValidation.wasm
+wwwroot\studio\_framework\Humanizer.wasm
+wwwroot\studio\_framework\icudt_CJK.dat
+wwwroot\studio\_framework\icudt_EFIGS.dat
+wwwroot\studio\_framework\icudt_no_CJK.dat
+wwwroot\studio\_framework\Microsoft.AspNetCore.Authorization.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Forms.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Components.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Web.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Connections.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Http.Connections.Client.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Http.Connections.Common.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.Metadata.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Client.Core.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Client.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Common.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.wasm
+wwwroot\studio\_framework\Microsoft.AspNetCore.WebUtilities.wasm
+wwwroot\studio\_framework\Microsoft.CSharp.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Configuration.Json.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Configuration.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.DependencyInjection.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Diagnostics.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Diagnostics.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Features.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Http.Polly.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Http.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Localization.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Localization.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Logging.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Options.wasm
+wwwroot\studio\_framework\Microsoft.Extensions.Primitives.wasm
+wwwroot\studio\_framework\Microsoft.JSInterop.wasm
+wwwroot\studio\_framework\Microsoft.JSInterop.WebAssembly.wasm
+wwwroot\studio\_framework\MudBlazor.wasm
+wwwroot\studio\_framework\netstandard.wasm
+wwwroot\studio\_framework\Polly.Core.wasm
+wwwroot\studio\_framework\Polly.Extensions.Http.wasm
+wwwroot\studio\_framework\Polly.wasm
+wwwroot\studio\_framework\Radzen.Blazor.wasm
+wwwroot\studio\_framework\Refit.HttpClientFactory.wasm
+wwwroot\studio\_framework\Refit.wasm
+wwwroot\studio\_framework\System.Collections.Concurrent.wasm
+wwwroot\studio\_framework\System.Collections.Immutable.wasm
+wwwroot\studio\_framework\System.Collections.NonGeneric.wasm
+wwwroot\studio\_framework\System.Collections.Specialized.wasm
+wwwroot\studio\_framework\System.Collections.wasm
+wwwroot\studio\_framework\System.ComponentModel.Annotations.wasm
+wwwroot\studio\_framework\System.ComponentModel.Primitives.wasm
+wwwroot\studio\_framework\System.ComponentModel.TypeConverter.wasm
+wwwroot\studio\_framework\System.ComponentModel.wasm
+wwwroot\studio\_framework\System.Console.wasm
+wwwroot\studio\_framework\System.Core.wasm
+wwwroot\studio\_framework\System.Data.Common.wasm
+wwwroot\studio\_framework\System.Diagnostics.DiagnosticSource.wasm
+wwwroot\studio\_framework\System.Diagnostics.TraceSource.wasm
+wwwroot\studio\_framework\System.Drawing.Primitives.wasm
+wwwroot\studio\_framework\System.Drawing.wasm
+wwwroot\studio\_framework\System.IO.Compression.wasm
+wwwroot\studio\_framework\System.IO.Pipelines.wasm
+wwwroot\studio\_framework\System.Linq.Expressions.wasm
+wwwroot\studio\_framework\System.Linq.Queryable.wasm
+wwwroot\studio\_framework\System.Linq.wasm
+wwwroot\studio\_framework\System.Memory.wasm
+wwwroot\studio\_framework\System.Net.Http.Json.wasm
+wwwroot\studio\_framework\System.Net.Http.wasm
+wwwroot\studio\_framework\System.Net.Primitives.wasm
+wwwroot\studio\_framework\System.Net.Requests.wasm
+wwwroot\studio\_framework\System.Net.Security.wasm
+wwwroot\studio\_framework\System.Net.WebSockets.Client.wasm
+wwwroot\studio\_framework\System.Net.WebSockets.wasm
+wwwroot\studio\_framework\System.ObjectModel.wasm
+wwwroot\studio\_framework\System.Private.CoreLib.wasm
+wwwroot\studio\_framework\System.Private.Uri.wasm
+wwwroot\studio\_framework\System.Private.Xml.Linq.wasm
+wwwroot\studio\_framework\System.Private.Xml.wasm
+wwwroot\studio\_framework\System.Reflection.DispatchProxy.wasm
+wwwroot\studio\_framework\System.Reflection.Emit.ILGeneration.wasm
+wwwroot\studio\_framework\System.Reflection.Emit.wasm
+wwwroot\studio\_framework\System.Reflection.Primitives.wasm
+wwwroot\studio\_framework\System.Runtime.InteropServices.JavaScript.wasm
+wwwroot\studio\_framework\System.Runtime.InteropServices.wasm
+wwwroot\studio\_framework\System.Runtime.Numerics.wasm
+wwwroot\studio\_framework\System.Runtime.Serialization.Formatters.wasm
+wwwroot\studio\_framework\System.Runtime.Serialization.Primitives.wasm
+wwwroot\studio\_framework\System.Runtime.wasm
+wwwroot\studio\_framework\System.Security.Claims.wasm
+wwwroot\studio\_framework\System.Security.Cryptography.wasm
+wwwroot\studio\_framework\System.Text.Encoding.Extensions.wasm
+wwwroot\studio\_framework\System.Text.Encodings.Web.wasm
+wwwroot\studio\_framework\System.Text.Json.wasm
+wwwroot\studio\_framework\System.Text.RegularExpressions.wasm
+wwwroot\studio\_framework\System.Threading.Channels.wasm
+wwwroot\studio\_framework\System.Threading.wasm
+wwwroot\studio\_framework\System.wasm
+wwwroot\studio\_framework\System.Web.HttpUtility.wasm
+wwwroot\studio\_framework\System.Xml.Linq.wasm
+wwwroot\studio\_framework\System.Xml.XDocument.wasm
+wwwroot\studio\_framework\ThrottleDebounce.wasm
+wwwroot\studio\_framework\zxing.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\blazor.boot.json
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\blazor.webassembly.js
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Blazored.FluentValidation.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Blazored.LocalStorage.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\BlazorMonaco.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\CodeBeam.MudBlazor.Extensions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\CsvHelper.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\DEDrake.ShortGuid.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\dotnet.js
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\dotnet.native.js
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\dotnet.native.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\dotnet.runtime.js
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Api.Client.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.ActivityPortProviders.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Core.BlazorWasm.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Core.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Dashboard.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.DomInterop.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Login.BlazorWasm.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Login.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Shared.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Shell.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.UIHints.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Workflows.Core.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Workflows.Designer.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Elsa.Studio.Workflows.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\ElsaStudio.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\FluentValidation.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Humanizer.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\icudt_CJK.dat
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\icudt_EFIGS.dat
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\icudt_no_CJK.dat
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Authorization.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Authorization.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Forms.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Components.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Components.Web.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Components.WebAssembly.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Connections.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Http.Connections.Client.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Http.Connections.Common.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.Metadata.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Client.Core.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Client.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Common.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.SignalR.Protocols.Json.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.AspNetCore.WebUtilities.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.CSharp.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Configuration.Json.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Configuration.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.DependencyInjection.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Diagnostics.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Diagnostics.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Features.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Http.Polly.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Http.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Localization.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Localization.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Logging.Abstractions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Logging.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Options.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.Extensions.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.JSInterop.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Microsoft.JSInterop.WebAssembly.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\MudBlazor.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\netstandard.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Polly.Core.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Polly.Extensions.Http.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Polly.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Radzen.Blazor.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Refit.HttpClientFactory.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\Refit.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Collections.Concurrent.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Collections.Immutable.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Collections.NonGeneric.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Collections.Specialized.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Collections.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.ComponentModel.Annotations.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.ComponentModel.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.ComponentModel.TypeConverter.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.ComponentModel.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Console.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Core.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Data.Common.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Diagnostics.DiagnosticSource.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Diagnostics.TraceSource.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Drawing.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Drawing.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.IO.Compression.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.IO.Pipelines.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Linq.Expressions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Linq.Queryable.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Linq.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Memory.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.Http.Json.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.Http.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.Requests.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.Security.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.WebSockets.Client.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Net.WebSockets.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.ObjectModel.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Private.CoreLib.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Private.Uri.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Private.Xml.Linq.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Private.Xml.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Reflection.DispatchProxy.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Reflection.Emit.ILGeneration.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Reflection.Emit.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Reflection.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.InteropServices.JavaScript.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.InteropServices.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.Numerics.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.Serialization.Formatters.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.Serialization.Primitives.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Runtime.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Security.Claims.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Security.Cryptography.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Text.Encoding.Extensions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Text.Encodings.Web.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Text.Json.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Text.RegularExpressions.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Threading.Channels.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Threading.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Web.HttpUtility.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Xml.Linq.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\System.Xml.XDocument.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\ThrottleDebounce.wasm
+C:\Users\Do Ngoc Khanh\.net\ElsaTraning.Api\ElsaTraning.Api\wwwroot\studio\_framework\zxing.wasm

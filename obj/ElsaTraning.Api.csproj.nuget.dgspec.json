@@ -67,9 +67,33 @@
               "target": "Package",
               "version": "[3.5.2, )"
             },
+            "Elsa.JavaScript": {
+              "target": "Package",
+              "version": "[3.5.2, )"
+            },
             "Elsa.Scheduling": {
               "target": "Package",
               "version": "[3.5.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
